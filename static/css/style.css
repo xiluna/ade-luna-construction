@@ -1,5 +1,14 @@
-.hero-background {
-  background-image: url("/static/img/home.jpg");
+.hero-background-img {
+  background-image: url("/static/img/backgroundimage.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.home-background-img {
+  background-image: url("/static/img/homeimage.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
